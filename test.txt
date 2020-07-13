@@ -9,3 +9,5 @@ My main subjects that I teach are:
 - JS
 - PHP
 - SQL
+
+I like to read and play soccer.
