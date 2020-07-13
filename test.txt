@@ -16,3 +16,5 @@ I like to read and play soccer.
 header is added now
 
 Main content added
+
+footer added
