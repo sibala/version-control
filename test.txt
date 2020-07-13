@@ -1,3 +1,11 @@
 Hello :)
 
 My name is Sibar and im 35 years of age.
+
+Im a teacher, teaching web development.
+My main subjects that I teach are:
+- HTML
+- CSS
+- JS
+- PHP
+- SQL
