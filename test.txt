@@ -1,3 +1,5 @@
 Hello :)
 
 My name is Sibar
+
+Im a teacher, teaching web development.
